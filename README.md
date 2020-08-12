@@ -1,4 +1,4 @@
-# DNN-model
+# Fault-Diagnostic Model
 A Deep Neural Network Model for Fault Diagnosis using Tensorflow
 
 Run dnn.py for training the model.
